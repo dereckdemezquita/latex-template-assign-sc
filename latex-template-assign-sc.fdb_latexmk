@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1577898246 "/Users/Dereck/Academia/LaTeX/git-custom-templates/latex-template-assign-sc/latex-template-assign-sc.tex" "/Users/Dereck/Academia/LaTeX/git-custom-templates/latex-template-assign-sc/latex-template-assign-sc.pdf" "latex-template-assign-sc" 1577898283
-  "/Users/Dereck/Academia/LaTeX/git-custom-templates/latex-template-assign-sc/latex-template-assign-sc.aux" 1577898247 912 e6f0b6b0b1e1d9b784415228c69469c6 ""
-  "/Users/Dereck/Academia/LaTeX/git-custom-templates/latex-template-assign-sc/latex-template-assign-sc.tex" 1577898281 12419 ac23073c1d295b2cc009b330cb9f80e2 ""
-  "/dev/null" 1577898251 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1577899685 "/Users/Dereck/Academia/LaTeX/git-custom-templates/latex-template-assign-sc/latex-template-assign-sc.tex" "/Users/Dereck/Academia/LaTeX/git-custom-templates/latex-template-assign-sc/latex-template-assign-sc.pdf" "latex-template-assign-sc" 1577899723
+  "/Users/Dereck/Academia/LaTeX/git-custom-templates/latex-template-assign-sc/latex-template-assign-sc.aux" 1577899686 912 e6f0b6b0b1e1d9b784415228c69469c6 ""
+  "/Users/Dereck/Academia/LaTeX/git-custom-templates/latex-template-assign-sc/latex-template-assign-sc.tex" 1577899721 12071 5858a7c0e5adbadeb8c72984089c3564 ""
+  "/dev/null" 1577899704 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/xcharter/xch_a3psji.enc" 1535406013 3134 253eab9b3bcf51ea8571afd7d88281a4 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/xcharter/xch_tuu2ww.enc" 1535406013 3146 21939e355760ee095e93da619bab29ad ""
@@ -197,6 +197,7 @@
   "/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty" 1203877327 325 2bcd023400636339210573e2b3ee298b ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1ptm.fd" 1137110629 774 61d7da1e9f9e74989b196d147e623736 ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/relsize/relsize.sty" 1369619135 15542 c4cc3164fe24f2f2fbb06eb71b1da4c4 ""
+  "/usr/local/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty" 1324344192 22913 a27d7908fc6f0385466454a966a316eb ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/stmaryrd/Ustmry.fd" 1137110872 1766 216b0f832c406513647608b5bb9bb8ff ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty" 1302307949 11080 aa7f81da60ce104f0dbb8b827dd14383 ""
   "/usr/local/texlive/2019/texmf-dist/tex/latex/tools/enumerate.sty" 1523050425 3465 3f63ff30365d38132fb55859c9cabd4d ""
@@ -209,12 +210,12 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1577633590 4259637 c0b5b5e3cf06e9aead231189fe2277f7 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "latex-template-assign-sc.aux" 1577898247 912 e6f0b6b0b1e1d9b784415228c69469c6 "pdflatex"
-  "latex-template-assign-sc.tex" 1577898281 12419 ac23073c1d295b2cc009b330cb9f80e2 ""
-  "structure.tex" 1577897760 6368 9daa20d91544714acb3ced94c88d2dde ""
+  "latex-template-assign-sc.aux" 1577899686 912 e6f0b6b0b1e1d9b784415228c69469c6 "pdflatex"
+  "latex-template-assign-sc.tex" 1577899721 12071 5858a7c0e5adbadeb8c72984089c3564 ""
+  "structure.tex" 1577899685 5968 2dbfb368f69a356c4aae4b03d417817d ""
   (generated)
-  "/Users/Dereck/Academia/LaTeX/git-custom-templates/latex-template-assign-sc/latex-template-assign-sc.log"
   "/Users/Dereck/Academia/LaTeX/git-custom-templates/latex-template-assign-sc/latex-template-assign-sc.pdf"
+  "latex-template-assign-sc.aux"
   "latex-template-assign-sc.pdf"
   "latex-template-assign-sc.log"
-  "latex-template-assign-sc.aux"
+  "/Users/Dereck/Academia/LaTeX/git-custom-templates/latex-template-assign-sc/latex-template-assign-sc.log"

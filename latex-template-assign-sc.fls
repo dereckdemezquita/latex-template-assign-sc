@@ -10,6 +10,8 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
 INPUT /Users/Dereck/Academia/LaTeX/git-custom-templates/latex-template-assign-sc/structure.tex
 INPUT /Users/Dereck/Academia/LaTeX/git-custom-templates/latex-template-assign-sc/structure.tex
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty

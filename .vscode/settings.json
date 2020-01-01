@@ -11,7 +11,6 @@
         "**/*.synctex.gz": true
     },
     "cSpell.enabled": true,
-    "editor.cursorBlinking": "solid",
     "editor.wordWrap": "on",
     "editor.wordWrapColumn": 80,
     "editor.wrappingIndent": "indent",
