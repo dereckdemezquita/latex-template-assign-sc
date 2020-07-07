@@ -1,6 +1,6 @@
 # latex-template-assign-sc
 
-<img src="./img/latex-template-assign-sc.png" width="300" style="display:block;margin:auto;">
+<img src="./img/latex-template-assign-sc.png" width="300" align="center">
 
 A LaTeX simple single column document. This is includes all the necessary components to work with Visual Studio Code, including but not limited to:  Visual Studio Code tasks, custom syntax highlighting for LaTeX, a custom dictionary (spell checker).
 
