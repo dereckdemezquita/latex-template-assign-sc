@@ -5,6 +5,12 @@
 
 A LaTeX simple single column document. This is includes all the necessary components to work with Visual Studio Code, including but not limited to:  Visual Studio Code tasks, custom syntax highlighting for LaTeX, a custom dictionary (spell checker).
 
+## Export to word
+
+```
+pandoc -s main.tex -o main.odt
+```
+
 ## Tools required
 This template is built to work with Visual Studio Code plus the following extensions:
 
